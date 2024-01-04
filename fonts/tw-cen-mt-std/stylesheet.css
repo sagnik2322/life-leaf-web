@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Tw Cen Classified MT Std';
+    src: url('TwCenClassMTStd-Regular.woff2') format('woff2'),
+        url('TwCenClassMTStd-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tw Cen MT Std';
+    src: url('TwCenMTStd-Bold.woff2') format('woff2'),
+        url('TwCenMTStd-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

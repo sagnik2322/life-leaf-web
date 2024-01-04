@@ -1,0 +1,481 @@
+@media (min-width: 1260px) {}
+
+/* md */
+@media(max-width: 1199px) {
+	.bg-1 .shape-1 {
+		width: 972px;
+		height: 542px;
+	}
+
+	.banner_doctor {
+		right: 0;
+		width: 330px;
+		height: 406px;
+	}
+
+	.home-banner {
+		padding: 60px 0 0;
+	}
+
+	.home-banner .banner-text {
+		padding: 60px 0;
+	}
+
+	.button-outer a+a {
+		margin-left: 6px;
+	}
+
+	.banner-text h1 {
+		font-size: 44px;
+	}
+	.home-banner .home-medicine {
+		left: 2%;
+		width: 21px;
+	}
+
+}
+
+@media (max-width: 991px) {
+	.heading h2 {
+		font-size: 	25px;
+	}
+
+	.heading h5 {
+		font-size: 18px;
+	}
+
+	.section_gap {
+		padding: 50px 0;
+	}
+
+	/* contact us section */
+	.pr-box {
+		margin-bottom: 20px;
+	}
+
+	.contact-box {
+		padding: 28px;
+	}
+
+	.contact-box .capsule-1 {
+		position: absolute;
+		right: -10px;
+	}
+
+	.contactus_section {
+		overflow: hidden;
+	}
+
+	.contact-form {
+		margin-top: 20px;
+	}
+
+	/* footer */
+	.footer_div {
+		padding: 40px 0 0;
+	}
+
+	.footer-logo {
+		text-align: center;
+		margin-bottom: 20px;
+	}
+
+	.footer-logo img {
+		width: 132px;
+	}
+
+	.nl-box {
+		padding-left: 0;
+	}
+
+	.ft-title {
+		padding-bottom: 9px;
+		margin-bottom: 15px;
+	}
+
+	.copyright {
+		margin-top: 20px;
+	}
+
+	.copyright p {
+		font-size: 13px;
+	}
+
+	.left-padding {
+		padding-left: 36px;
+	}
+
+	.gap-top {
+		margin-top: 30px;
+	}
+
+	.banner_doctor {
+		right: -18px;
+		width: 100%;
+		height: auto;
+	}
+
+	.banner_doctor .counter-item {
+		padding: 8px;
+	}
+
+	.banner_doctor .counter-item .counting {
+		font-size: 18px;
+	}
+
+	.counter-item h6 {
+		margin-top: 3px;
+		font-size: 13px;
+	}
+    .banner_slider.owl-theme .owl-nav.disabled+.owl-dots {
+    top: -50px;
+}
+    .ban-nav-two-btn {
+    padding-right: 52px;
+}
+    .menuButton{
+    float: none;
+    position: absolute;
+    right: 36px;
+}
+    .menuButton span {
+    background: #1d5d76;
+}
+    .menu ul {
+    background-color:#1d5d76;
+}
+    .menu ul li a {
+    padding: 0;
+        color: #fff;
+}
+.menu ul li span {
+    right: 20px;
+    top: 2px;
+    filter: invert(1);
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+}
+    .menu ul li ul {
+    opacity: 1;
+    visibility: visible;
+}
+    .header_area {
+    z-index: 99991;
+}
+    .menu ul li {
+    border-top:1px solid #eeeeee75!important;
+}
+    .menu ul li ul li {
+    border-bottom: 1px solid #eee!important;
+}
+    .menu ul li ul li a {
+    border-bottom: none!important;
+}
+    .section_gap {
+    padding: 50px 0 80px;
+}
+    .menu ul {
+    top: 100px;
+}
+    .menu ul li a span i {
+    top: -1px;
+}
+
+.about-img {
+	padding-left: 0 !important;
+}
+
+.company_overview .call-bg-outer {
+	margin-left: -29px;
+}
+
+.company_overview .call-bg-outer {
+	bottom: 43px;
+}
+
+.company_profile .text-block {
+	padding-left: 0;
+}
+
+.about-img2 {
+	padding-right: 30px;
+	height: 411px;
+}
+
+.about-img2 .ai-3 {
+	width: 74%;
+	height: 36%;
+}
+
+.inner-banner {
+	padding: 80px 0;
+}
+
+.inner-banner-text h1 {
+	font-size: 39px;
+}
+
+.expert-box .image-block {
+	height: 150px;
+}
+
+.expert-box .expert-details h4 {
+	font-size: 19px;
+	margin-bottom: 2px;
+}
+
+.expert-box .expert-details {
+	padding: 15px 10px;
+}
+
+.expert-box .expert-details p {
+	font-size: 14px;
+}
+.header_area .logo img {
+    max-height: 89px;
+}
+}
+
+@media (max-width: 767.98px) {
+	.counter-item {
+		margin-bottom: 25px;
+	}
+
+	.contactus_section .circle-1 {
+		right: 27px;
+	}
+
+	.service-box h4 {
+		font-size: 23px;
+	}
+
+	.service-box p {
+		font-size: 14px;
+	}
+
+	.image-outer {
+		margin-bottom: 95px;
+	}
+
+	.hbg-circle {
+		position: absolute;
+		width: 350px;
+		height: 350px;
+		left: 50%;
+		transform: translateX(-50%);
+		top: unset;
+		bottom: 50px;
+	}
+
+	.banner_doctor {
+		right: 50%;
+		width: 320px;
+		height: 354px;
+		bottom: 0;
+		position: relative;
+		bottom: 100px;
+		top: unset;
+		transform: translate(-50%, none);
+	}
+
+	.banner_doctor {
+		right: unset;
+		bottom: 0;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+	.home-banner{
+		padding: 0;
+	}
+	.button-outer {
+		margin: 30px 0 10px;
+	}
+	.pr-box ul li {
+		font-size: 16px;
+	}
+	.pr-box h4{
+		font-size: 20px;
+	}
+	.our_ranges{
+		padding-bottom: 0;
+	}
+	.home-banner .coffee {
+		position: absolute;
+		left: 88%;
+		top: 44%;
+	}
+	.product-item .image-block{
+		height: 165px;
+	}
+	.product-item .product-details p a{
+		font-size: 15px;
+	}
+    .home-banner {
+    padding-top: 65px;
+}
+
+.company_overview {
+	padding-bottom: 0 !important;
+}
+
+.company_overview .heading {
+	margin-top: 60px;
+}
+
+.about-img {
+	text-align: center;
+}
+
+.about-img img {
+	width: 600px;
+}
+
+.about-img2 {
+	margin-bottom: 50px;
+}
+
+.company_overview:after,
+.company_profile:after,
+.about_service:after {
+	bottom: unset;
+	top: 60px;
+	width: 100%;
+}
+
+.about_service .about-img3 {
+	padding-left: 0;
+	margin-bottom: 30px;
+}
+.contact-info-box{
+	padding: 23px 12px;
+	margin-bottom: 20px;
+	height: auto;
+}
+.discuss-box .capsule-1{
+	display: none;
+}
+}
+
+/* XS Portrait */
+@media screen and (max-width: 639.98px) {
+	.ft-nletter {
+		margin-bottom: 10px;
+	}
+
+	.heading h5 {
+		font-size: 18px;
+	}
+
+	.left-padding {
+		margin-top: 0;
+	}
+
+	.service-box {
+		padding: 42px 23px 20px;
+	}
+
+	.left-padding .service-box::before {
+		display: none;
+	}
+
+	.left-padding {
+		padding-left: 15px;
+	}
+
+	.orthopedicimplants_section .half-circle {
+		width: 217px;
+		height: 124px;
+	}
+
+	.orthopedicimplants_section .capsule {
+		right: 5%;
+	}
+	.home-banner .home-medicine{
+		display: none;
+	}
+	.company_overview .call-bg-outer {
+		bottom: -35px;
+		left: 2%;
+		margin-left: 0;
+	}
+
+	.about-img3 .icon-box img {
+		width: 45px;
+		height: 45px;
+	}
+}
+
+@media (max-width:576px) {
+	.expert-box .image-block {
+		height: 375px;
+	}
+	.expert-box {
+		margin-bottom: 20px;
+	}
+	.expert_section .half-cicle{
+		width: 150px;
+		height: 275px;
+	}
+}
+
+@media (max-width: 479.98px) {
+	.button-outer a+a {
+		margin-left: 0px;
+		margin-top: 5px;
+	}
+	.whatsapp_btn{
+		margin-left: 10px!important;
+		display: inline-block;
+	}
+    .header_area .logo {
+    max-width: 185px;
+}
+    .ban-nav-two-btn {
+    padding-right: 60px;
+    padding-top: 8px;
+}
+    .header_area .btn {
+    padding: 8px 10px;
+    font-size: 12px;
+}
+    .menuButton {
+    right: 20px;
+}
+    .banner-text h1 {
+    font-size: 30px;
+}
+    .banner-text h4 {
+    font-size: 18px;
+}
+    .banner-text  p {
+    font-size: 15px;
+}
+    .section_gap {
+    padding: 50px 0 50px;
+}
+    .customer_text p {
+    font-size: 15px;
+}
+.company_overview .call-bg-outer .call-bg i {
+	font-size: 32px;
+}
+
+.company_overview .call-bg-outer .call-bg .call-content h4 {
+	font-size: 20px;
+}
+
+.company_overview .call-bg-outer .call-bg .call-content p {
+	font-size: 19px;
+}
+}
+
+@media (max-width: 410px) {}
+
+@media (max-width: 375px) {}
+
+@media (max-width: 320px) {}
+
+@media (max-width: 767.98px) { .product-box.single-product img{
+	height: 210px;
+}}
